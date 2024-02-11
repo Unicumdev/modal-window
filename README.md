@@ -1,1 +1,1 @@
-# modal-window
+# modal-window template for projects
